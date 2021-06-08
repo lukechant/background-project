@@ -1,5 +1,6 @@
 body {
     background-color: aquamarine;
+    font-family:'Courier New', Courier, monospace;
 }
 
 #red {
@@ -12,4 +13,17 @@ body {
 
 #blue {
     background-color: blue;
+}
+
+#random {
+    background-color: black;
+}
+
+button {
+border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
 }
